@@ -1,0 +1,7 @@
+{
+    "API" : {
+        "UNI_SEARCH" : "http://universities.hipolabs.com/search",
+        "LOGIN" : "**Placeholder for Login API**",
+        "REGISTER" : "**Placeholder for Register API**"
+    }
+}
