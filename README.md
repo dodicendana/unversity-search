@@ -1,4 +1,4 @@
-# University Search
+# Coding Challenge - University Search
 
 This is a web application project built to search universities based on https://github.com/Hipo/university-domains-list API.
 There are 3 tabs in this application:
@@ -50,7 +50,7 @@ To build the project for deployment, can run 'npm run build' under the root fold
 
 ## Authors
 
-* **Dodi Cendana** - *Initial work* - University Search
+* **Dodi Cendana** - *Initial work* - Coding Challenge - University Search
 
 ## License
 
